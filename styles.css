@@ -1,0 +1,9 @@
+body {
+  background-image: url('https://st.depositphotos.com/30440304/54513/i/450/depositphotos_545134414-stock-photo-luxury-dark-background-website-poster.jpg');
+  background-size: cover;          /* Hace que la imagen cubra toda la pantalla */
+  background-repeat: no-repeat;    /* Evita que la imagen se multiplique */
+  background-position: center;     /* Centra la imagen */
+  background-attachment: fixed;    /* Mantiene la imagen fija al hacer scroll */
+  height: 100vh;                   /* Asegura que el body ocupe toda la altura */
+  margin: 0;
+}
